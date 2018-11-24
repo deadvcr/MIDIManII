@@ -1,0 +1,30 @@
+{
+    "images":[
+        {"name":"button", "desc":"The button hand thing", "folder": "button", "fileName":"button.png", "exampleValues":["bruh sound effect #2", "me"],"subImages":[
+            {"name":"button", "pos":[66, 216], "font":{"name":"impact", "size": 30, "color": "#FFFFFF", "fontWidth":15}, "fileName":"button_button.png"},
+            {"name":"title", "pos":[40, 23], "font":{"name":"impact", "size": 50, "color": "#FFFFFF", "fontWidth":15}, "fileName":"button_title.png"}
+        ]},
+        {"name":"sonicsays1", "desc":"Sonic says something blahbhbl", "fileName": "sonic_says1.png", "exampleValues":["my name is jeff"], "folder":"sonic_says1", "subImages":[
+            {"name":"box", "pos":[382,103], "font":{"name":"impact", "size":40, "color":"#FFFFFF", "fontWidth":25}, "fileName":"sonic_says1_box.png"}
+        ]},
+        {"name":"expandingbrain1", "desc":"Expanding brain", "fileName":"expanding_brain1.png", "folder":"expanding_brain1", "exampleValues":["who", "whom", "whoms't", "whomst'd"], "subImages":[
+            {"name":"box_1", "pos":[0,0], "font":{"name":"impact", "size":40, "color":"#000000", "fontWidth":21}, "fileName":"box_1.png"},
+            {"name":"box_2", "pos":[9,305], "font":{"name":"impact", "size":40, "color":"#000000", "fontWidth":20}, "fileName":"box_2.png"},
+            {"name":"box_3", "pos":[16,627], "font":{"name":"impact", "size":40, "color":"#000000", "fontWidth":18}, "fileName":"box_3.png"},
+            {"name":"box_4", "pos":[27,911], "font":{"name":"impact", "size":40, "color":"#000000", "fontWidth":17}, "fileName":"box_4.png"}
+        ]},
+        {"name":"puppets1", "desc":"Puppeteer image", "fileName":"puppet1.png", "folder":"puppet1", "exampleValues":["Minecraft YouTubers", "Aliens", "Illuminati", "Russia", "US Govt.", "The Media", "You"], "subImages":[
+            {"name":"hands1", "pos":[354,12], "font":{"name":"impact", "size":80, "color":"#000000", "fontWidth":10}, "fileName":"hands1.png"},
+            {"name":"hands2", "pos":[231,197], "font":{"name":"impact", "size":60, "color":"#000000", "fontWidth":9}, "fileName":"hands2.png"},
+            {"name":"hands3", "pos":[108,402], "font":{"name":"impact", "size":40, "color":"#000000", "fontWidth":13}, "fileName":"hands3.png"},
+            {"name":"hands4", "pos":[133,546], "font":{"name":"impact", "size":30, "color":"#000000", "fontWidth":15}, "fileName":"hands4.png"},
+            {"name":"hands5", "pos":[181,714], "font":{"name":"impact", "size":30, "color":"#000000", "fontWidth":10}, "fileName":"hands5.png"},
+            {"name":"hands6", "pos":[231,804], "font":{"name":"impact", "size":30, "color":"#000000", "fontWidth":9}, "fileName":"hands6.png"},
+            {"name":"hands7", "pos":[328,875], "font":{"name":"impact", "size":20, "color":"#000000", "fontWidth":10}, "fileName":"hands7.png"}
+        ]},
+        {"name":"attack", "desc":"A guy jumping at another guy", "fileName": "main.png", "exampleValues":["T Series", "PewDiePie"], "folder":"attack", "subImages":[
+            {"name":"jumping_guy", "pos":[51,48], "font":{"name":"impact", "size":40, "color":"#FFFFFF", "fontWidth":25, "outlineThickness":3, "outlineColour":"#000000"}, "fileName":"jumping.png"},
+            {"name":"unaware", "pos":[401,285], "font":{"name":"impact", "size":40, "color":"#FFFFFF", "fontWidth":25, "outlineThickness":3, "outlineColour":"#000000"}, "fileName":"unaware.png"}
+        ]}
+    ]
+}
